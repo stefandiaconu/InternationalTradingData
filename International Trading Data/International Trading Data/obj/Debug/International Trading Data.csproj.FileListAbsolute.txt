@@ -1,0 +1,21 @@
+C:/Users/stefa/OneDrive/Programming/C#/International Trading Data/International Trading Data/bin/Debug/International Trading Data.exe.config
+C:/Users/stefa/OneDrive/Programming/C#/International Trading Data/International Trading Data/bin/Debug/International Trading Data.exe
+C:/Users/stefa/OneDrive/Programming/C#/International Trading Data/International Trading Data/bin/Debug/International Trading Data.pdb
+C:/Users/stefa/OneDrive/Programming/C#/International Trading Data/International Trading Data/obj/Debug/International_Trading_Data.Form1.resources
+C:/Users/stefa/OneDrive/Programming/C#/International Trading Data/International Trading Data/obj/Debug/International_Trading_Data.Properties.Resources.resources
+C:/Users/stefa/OneDrive/Programming/C#/International Trading Data/International Trading Data/obj/Debug/International Trading Data.csproj.GenerateResource.Cache
+C:/Users/stefa/OneDrive/Programming/C#/International Trading Data/International Trading Data/obj/Debug/International Trading Data.exe
+C:/Users/stefa/OneDrive/Programming/C#/International Trading Data/International Trading Data/obj/Debug/International Trading Data.pdb
+C:/Users/stefa/OneDrive/Programming/C#/International Trading Data/International Trading Data/obj/Debug/International_Trading_Data.Form2.resources
+C:/Users/stefa/OneDrive/Programming/C#/International Trading Data/International Trading Data/obj/Debug/International Trading Data.csprojResolveAssemblyReference.cache
+/Users/stefandiaconu/OneDrive/Programming/C#/International Trading Data/International Trading Data/bin/Debug/International Trading Data.exe.config
+/Users/stefandiaconu/OneDrive/Programming/C#/International Trading Data/International Trading Data/bin/Debug/International Trading Data.exe
+/Users/stefandiaconu/OneDrive/Programming/C#/International Trading Data/International Trading Data/bin/Debug/International Trading Data.pdb
+/Users/stefandiaconu/OneDrive/Programming/C#/International Trading Data/International Trading Data/obj/Debug/International Trading Data.csprojAssemblyReference.cache
+/Users/stefandiaconu/OneDrive/Programming/C#/International Trading Data/International Trading Data/obj/Debug/International_Trading_Data.Form1.resources
+/Users/stefandiaconu/OneDrive/Programming/C#/International Trading Data/International Trading Data/obj/Debug/International_Trading_Data.Form2.resources
+/Users/stefandiaconu/OneDrive/Programming/C#/International Trading Data/International Trading Data/obj/Debug/International_Trading_Data.Properties.Resources.resources
+/Users/stefandiaconu/OneDrive/Programming/C#/International Trading Data/International Trading Data/obj/Debug/International Trading Data.csproj.GenerateResource.cache
+/Users/stefandiaconu/OneDrive/Programming/C#/International Trading Data/International Trading Data/obj/Debug/International Trading Data.csproj.CoreCompileInputs.cache
+/Users/stefandiaconu/OneDrive/Programming/C#/International Trading Data/International Trading Data/obj/Debug/International Trading Data.exe
+/Users/stefandiaconu/OneDrive/Programming/C#/International Trading Data/International Trading Data/obj/Debug/International Trading Data.pdb
